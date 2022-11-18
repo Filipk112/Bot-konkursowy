@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 #requirements :
 #pip install selelnium
-#pip install 
+#pip install webdriver-manager
 
 class Bot:
 
